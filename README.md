@@ -81,3 +81,21 @@ To customize the SMARTFAQ MODULE, modify the following files:
         "answer": "Follow the installation instructions provided in the README."
     }
 ]
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them with a clear message.
+Push your changes to your forked repository.
+Open a pull request.
+Please ensure that your code adheres to the project's coding standards and is well-documented.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any inquiries, please reach out to:
+
+Your Name: ch22b057@smail.iitm.ac.in
