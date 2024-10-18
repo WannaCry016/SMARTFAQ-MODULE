@@ -6,9 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -73,29 +70,19 @@ To customize the SMARTFAQ MODULE, modify the following files:
 ```json
 [
     {
-        "question": "What is SMARTFAQ?",
-        "answer": "SMARTFAQ is an intelligent FAQ management system that uses machine learning to improve responses."
+        "question": "What is the process for admission into Saras AI Institute?",
+        "answer": "The admission process at Saras AI Institute typically involves submitting the online application form along with necessary details, followed by a quick pre-            enrollment assessment to evaluate your candidature based on your personal traits and basic communication skills in English.",
+        "category": "admissions"
     },
     {
-        "question": "How do I install the module?",
-        "answer": "Follow the installation instructions provided in the README."
-    }
+        "question": "Is there an application fee for applying to Saras AI Institute?",
+        "answer": "There is no application fee for applying to any program at Saras.",
+        "category": "admissions"
+    },
+    {
+        "question": "What is the pre-enrollment assessment test? How do I prepare for it?",
+        "answer": "It is a fully online assessment which takes less than 15 minutes. It is designed to evaluate your personal traits and basic English communication skills. You             can take it at the time of filling out the application. It does not require any specific preparation.",
+        "category": "admissions"
+    },
 ]
 
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, please follow these steps:
-
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with a clear message.
-Push your changes to your forked repository.
-Open a pull request.
-Please ensure that your code adheres to the project's coding standards and is well-documented.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For any inquiries, please reach out to:
-
-Your Name: ch22b057@smail.iitm.ac.in
