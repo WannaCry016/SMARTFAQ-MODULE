@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart FAQ Module</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to the CSS file -->
+</head>
+<body>
+    <h1>Frequently Asked Questions</h1>
+    <p class="faq-description">
+        Whether you're a prospective student looking for program details, a parent seeking information about our curriculum, or a current student with inquiries about your studies, we're here to help.
+    </p>
+    <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+        <input type="text" id="user-query" placeholder="Ask a question..." />
+        <button id="ai-response-button">Search</button> 
+    </div>
+
+    <!-- LLM Response Section (only displayed when button is clicked) -->
+    <div id="llm-response" style="display: none;"></div> <!-- Initially hidden -->
+
+    <!-- Real-time FAQ results (displays as the user types) -->
+    <div id="faq-results"></div>
+
+    <div id="contact-section">
+        <h2>Still got questions/Feedback? We'll get in touch quickly.</h2>
+        
+        <form id="contact-form">
+            <input type="text" id="name" placeholder="Name.." required /><br />
+            <input type="email" id="email" placeholder="Email.." required /><br />
+            <input type="tel" id="phone" placeholder="Phone..." required /><br />
+            <textarea id="message" placeholder="Message.." required></textarea><br />
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
