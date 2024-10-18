@@ -1,0 +1,22 @@
+{
+  "name": "smart-faq-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"python3 services/searchservice.py\" \"node server.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "fuzzball": "^2.1.3",
+    "fuzzywuzzy": "^0.1.0",
+    "natural": "^8.0.1",
+    "node-fetch": "^3.3.2",
+    "concurrently": "^8.0.1"
+  }
+}

@@ -1,0 +1,147 @@
+[
+    {
+        "question": "What is the process for admission into Saras AI Institute?",
+        "answer": "The admission process at Saras AI Institute typically involves submitting the online application form along with necessary details, followed by a quick pre-enrollment assessment to evaluate your candidature based on your personal traits and basic communication skills in English.",
+        "category": "admissions"
+    },
+    {
+        "question": "Is there an application fee for applying to Saras AI Institute?",
+        "answer": "There is no application fee for applying to any program at Saras.",
+        "category": "admissions"
+    },
+    {
+        "question": "What is the pre-enrollment assessment test? How do I prepare for it?",
+        "answer": "It is a fully online assessment which takes less than 15 minutes. It is designed to evaluate your personal traits and basic English communication skills. You can take it at the time of filling out the application. It does not require any specific preparation.",
+        "category": "admissions"
+    },
+    {
+        "question": "Are there any specific requirements or prerequisites for admission into the programs?",
+        "answer": "To be a successful professional in AI, you need to possess basic mathematical proficiency - which can be demonstrated by your math scores in high school or beyond. At Saras, you learn with global peers and faculties and should possess basic communication skills in English. These make up for the basic eligibility criteria.",
+        "category": "admissions"
+    },
+    {
+        "question": "When is the deadline for submitting the application?",
+        "answer": "The deadline for submitting applications is 5th August 2024.",
+        "category": "admissions"
+    },
+    {
+        "question": "What kind of programs does Saras AI Institute offer?",
+        "answer": "Saras AI Institute offers a variety of programs focusing on Artificial Intelligence, Machine Learning, and Data Science, with courses designed for both beginners and professionals.",
+        "category": "programs"
+    },
+    {
+        "question": "Do the programs at Saras AI Institute offer any certifications?",
+        "answer": "Yes, all programs at Saras AI Institute offer industry-recognized certifications upon successful completion of the course.",
+        "category": "programs"
+    },
+    {
+        "question": "How are the courses at Saras AI Institute delivered?",
+        "answer": "All courses are delivered online through interactive live sessions with industry experts and professors. Recorded sessions are also available for students who need flexibility.",
+        "category": "programs"
+    },
+    {
+        "question": "Can I switch between programs after enrollment?",
+        "answer": "Yes, Saras AI Institute offers flexibility for students to switch between certain programs within the first two weeks of enrollment, provided space is available in the new program.",
+        "category": "programs"
+    },
+    {
+        "question": "How do I apply for scholarships at Saras AI Institute?",
+        "answer": "Saras AI Institute offers various scholarships based on merit and financial need. To apply, you must fill out the scholarship section during the application process and provide the necessary documents for verification.",
+        "category": "financial aid"
+    },
+    {
+        "question": "Does Saras AI Institute offer any financial assistance or payment plans?",
+        "answer": "Yes, the institute offers various financial aid options and flexible payment plans to help students manage the cost of tuition.",
+        "category": "financial aid"
+    },
+    {
+        "question": "How can I contact the admissions office at Saras AI Institute?",
+        "answer": "You can contact the admissions office via email at admissions@sarasai.com or call our helpline number provided on the website.",
+        "category": "contact"
+    },
+    {
+        "question": "Is there a helpline for international students?",
+        "answer": "Yes, Saras AI Institute provides a dedicated helpline and email support for international students to assist with their specific queries.",
+        "category": "contact"
+    },
+    {
+        "question": "What is the refund policy if I decide to withdraw from a program?",
+        "answer": "Saras AI Institute offers a partial refund if you withdraw within the first two weeks of the program. After that period, no refunds will be issued.",
+        "category": "policy"
+    },
+    {
+        "question": "Can I defer my enrollment to a later term?",
+        "answer": "Yes, you can defer your enrollment by submitting a formal request. Deferment is subject to approval based on seat availability in the next batch.",
+        "category": "policy"
+    },
+    {
+        "question": "Are there any placement opportunities after completing a program at Saras AI Institute?",
+        "answer": "Yes, Saras AI Institute has a strong placement cell that assists students in finding job opportunities in top AI and tech companies.",
+        "category": "placements"
+    },
+    {
+        "question": "What is the curriculum like at Saras AI Institute?",
+        "answer": "The curriculum at Saras AI Institute helps impart essential technical as well as human skills. We have designed a role-based curriculum that prepares students for one of these in-demand roles: AI/ML Engineer; Data Scientist; Gen AI Engineer. The curriculum is designed to provide a comprehensive understanding of AI principles and practices, including hands-on projects and real-world applications.",
+        "category": "curriculum and faculty"
+    },
+    {
+        "question": "What does the program structure look like, and how is the curriculum delivered?",
+        "answer": "Each year is divided into 5 semesters which last for 8 weeks each. Our programs feature a mix of recorded and live sessions, allowing for flexibility in learning.",
+        "category": "curriculum and faculty"
+    },
+    {
+        "question": "Can you provide more details about the role-based curriculum feature and how it benefits students?",
+        "answer": "Our role-based curriculum is designed to provide targeted training and develop specialized skills in students that are highly relevant to their desired job-roles from day one.",
+        "category": "curriculum and faculty"
+    },
+    {
+        "question": "Do you also conduct LIVE sessions?",
+        "answer": "Live sessions are conducted regularly to supplement the recorded content and provide opportunities for interactive learning and Q&A sessions. You get to interact with instructors as well as your dedicated coach for any help that you might need.",
+        "category": "curriculum and faculty"
+    },
+    {
+        "question": "Can I transfer credits earned at other universities to Saras AI Institute?",
+        "answer": "Yes, we evaluate the course that you have taken, if it overlaps with our curriculum and is relevant in today's time, we offer the flexibility of transferring credits.",
+        "category": "curriculum and faculty"
+    },
+    {
+        "question": "Who are the faculty members at Saras AI Institute?",
+        "answer": "The faculty at Saras AI Institute consists of industry professionals who bring the most relevant skills and mentorship for the students to help them prepare for exactly what is needed to succeed in the job roles they are preparing for.",
+        "category": "curriculum and faculty"
+    },
+    {
+        "question": "Can I connect with mentors outside of class?",
+        "answer": "Yes, we encourage mentorship and provide opportunities for students to connect with mentors outside of class through live sessions as well as 24x7 mentor support to help resolve your doubts or queries.",
+        "category": "curriculum and faculty"
+    },
+    {
+        "question": "Is Saras AI Institute accredited?",
+        "answer": "No, we are not accredited yet. This is our first Enrollment cycle and there is a minimum period before an institute can get accredited. However, we do follow the highest standards in terms of the curriculum and pedagogy for our students to become the top AI professionals.",
+        "category": "accreditation and recognition"
+    },
+    {
+        "question": "Are the degree programs recognized by the government?",
+        "answer": "Yes, we are a state-approved degree granting institute based in the United States.",
+        "category": "accreditation and recognition"
+    },
+    {
+        "question": "Do employers require an accredited degree?",
+        "answer": "An accredited degree is not an absolute requirement from employers. We ensure our students are among the most-skilled and ready individuals to crack the best of jobs.",
+        "category": "accreditation and recognition"
+    },
+    {
+        "question": "Does Saras AI Institute offer employment support?",
+        "answer": "Yes, we provide comprehensive employment support including job placement services, resume building workshops, and interview preparation.",
+        "category": "career services"
+    },
+    {
+        "question": "Does Saras have partnerships with employers?",
+        "answer": "Yes, we have partnered with top global companies to recruit our graduating students.",
+        "category": "career services"
+    },
+    {
+        "question": "Does the university offer internship placement assistance?",
+        "answer": "Yes, we assist students in finding internships by connecting them with potential employers and offering guidance on applications and interviews.",
+        "category": "career services"
+    }
+]
