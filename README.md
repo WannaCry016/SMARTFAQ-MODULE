@@ -20,6 +20,9 @@ SMARTFAQ MODULE is an intelligent FAQ management system designed to enhance user
 - **Multi-Language Support**: Offers FAQ responses in multiple languages to cater to a diverse user base.
 - **Integration Capabilities**: Can be integrated into existing websites or applications with minimal setup.
 
+![Screenshot](images/Screenshot 2024-10-18 225040.png)
+![Screenshot](images/Screenshot 2024-10-18 225114.png)
+
 ## Installation
 
 To install the SMARTFAQ MODULE, follow these steps:
