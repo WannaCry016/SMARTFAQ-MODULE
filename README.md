@@ -16,8 +16,6 @@ SMARTFAQ MODULE is an intelligent FAQ management system designed to enhance user
 - **Intelligent Response System**: Utilizes natural language processing (NLP) to understand and respond to user queries effectively.
 - **User-Friendly Interface**: Simple and intuitive UI for seamless interaction.
 - **Customizable FAQ Database**: Easily add, update, or remove FAQ entries through an admin panel.
-- **Analytics Dashboard**: Track user interactions and popular queries for continuous improvement.
-- **Multi-Language Support**: Offers FAQ responses in multiple languages to cater to a diverse user base.
 - **Integration Capabilities**: Can be integrated into existing websites or applications with minimal setup.
 
 ![Screenshot](images/Screenshot%202024-10-18%20225040.png)
